@@ -42,10 +42,10 @@ Integration (run back-end & front-end on same server/port)
 
 ## Project setup
 ```
-npm install
+yarn
 ```
 
 ### Run
 ```
-node server.js
+yarn start
 ```
